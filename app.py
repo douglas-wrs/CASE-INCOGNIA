@@ -1,5 +1,4 @@
 import streamlit as st
-from src.pages import case_ato
 from src.pages import readme
 from src.pages import case
 from src.pages import problem
